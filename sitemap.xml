@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://litio.org/</loc>
+    <lastmod>2015-09-19T23:04:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://litio.org/about/</loc>
+    <lastmod>2015-09-19T23:04:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://litio.org/post/gnome-atk-and-atspi-hackfest-2011/</loc>
+    <lastmod>2011-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</loc>
+    <lastmod>2010-04-13T20:45:17+02:00</lastmod>
+  </url>
+  
+</urlset>
