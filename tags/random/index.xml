@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random on gloob&#39;s devlog</title>
+    <link>http://litio.org/tags/random/</link>
+    <description>Recent content in Random on gloob&#39;s devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 13 Apr 2010 20:45:17 +0200</lastBuildDate>
+    <atom:link href="http://litio.org/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On a mote of dust suspended in a sunbeam</title>
+      <link>http://litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</link>
+      <pubDate>Tue, 13 Apr 2010 20:45:17 +0200</pubDate>
+      
+      <guid>http://litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://litio.org/media/pale-blue-dot.png&#34; alt=&#34;&#34; title=&#34;Pale Blue Dot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Consider again that dot. That&amp;rsquo;s here. That&amp;rsquo;s home. That&amp;rsquo;s us. On it everyone
+you love, everyone you know, everyone you ever heard of, every human being who
+ever was, lived out their lives. The aggregate of our joy and suffering,
+thousands of confident religions, ideologies, and economic doctrines, every
+hunter and forager, every hero and coward, every creator and destroyer of
+civilization, every king and peasant, every young couple in love, every mother
+and father, hopeful child, inventor and explorer, every teacher of morals,
+every corrupt politician, every &amp;ldquo;superstar,&amp;rdquo; every &amp;ldquo;supreme leader,&amp;rdquo; every
+saint and sinner in the history of our species lived there - on a mote of dust
+suspended in a sunbeam.”&lt;/p&gt;
+
+&lt;p&gt;May 11, 1996 Carl Sagan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
