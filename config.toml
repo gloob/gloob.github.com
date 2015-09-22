@@ -1,0 +1,45 @@
+baseurl = "http://litio.org/"
+title = "gloob's devlog"
+languageCode = "en-us"
+disqusShortname = "gloob"
+copyright = "Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved."
+MetaDataFormat = "yaml"
+theme = "cactus"
+
+[author]
+    name = "Alejandro Leiva"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
+
+[params]
+    name = "Alejandro Leiva"
+    description = "gloob's devlog"
+    bio = "Nowhere man"
+    twitter = "gloob"
+
+    disqusShortname = "litio-org"
+    # Enter your tracking code to enable Google Analytics
+    googleAnalytics = "UA-115755-1"
+    enableRSS = true
+
+    # The variables below are optionally too and can be used to
+    # translate or customize each string of the theme.
+
+    # Navigation links
+    home = ""
+    about = ""
+    subscribe = ""
+    # Pagination links
+    olderPosts = ""
+    newerPosts = ""
+    readMore = ""
+    copyright = ""
+    # Sharing options and author information in posts
+    aboutAuthor = "Developer, Team Maker, Father of Dragons."
+    tweet = ""
+    share = ""
+    # 404 page
+    title404 = ""
+    subtitle404 = ""
