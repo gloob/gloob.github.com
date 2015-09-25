@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fosdem on gloob&#39;s devlog</title>
+    <link>http://www.litio.org/topics/fosdem/</link>
+    <description>Recent content in Fosdem on gloob&#39;s devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 14 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.litio.org/topics/fosdem/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fosdem 2011</title>
+      <link>http://www.litio.org/post/fosdem-2011/</link>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.litio.org/post/fosdem-2011/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm6.static.flickr.com/5176/5422511353_d92f4d7365.jpg&#34; alt=&#34;Photo of Fosdem 2011&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year I had the opportunity to attend one of the main open source related
+conferences in Europe, &lt;a href=&#34;http://www.fosdem.org/2011/&#34;&gt;FOSDEM 2011&lt;/a&gt;. Thanks to my company, &lt;a href=&#34;http://www.emergya.es/&#34;&gt;Emergya&lt;/a&gt;, for funding some of us to attend this event. While there, I gave &lt;a href=&#34;http://www.fosdem.org/2011/schedule/event/orca_future/&#34;&gt;a talk&lt;/a&gt; about Orca.&lt;/p&gt;
+
+&lt;p&gt;You can find the talk at &lt;a href=&#34;http://www.slideshare.net/emergya/orca-a-screen-reader-sailing-into-uncharted-waters/&#34;&gt;slideshare&lt;/a&gt; and in a more accessible format &lt;a href=&#34;http://www.litio.org/tmp/fosdem-orca.txt/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What I can say about my first time at FOSDEM? Well, for a Spaniard used to
+drinking beer of around 4% ABV, Belgian beer of &amp;gt; 10% ABV is crazy :-) Aside
+from the parties, I really enjoyed attending FOSDEM because I met with people
+that I only know in the virtual world.&lt;/p&gt;
+
+&lt;p&gt;I’m also very happy to see the &lt;a href=&#34;http://www.xfce.org/&#34;&gt;XFCE&lt;/a&gt; developers taking accessibility seriously. Thanks to our presence in FOSDEM, we’re starting to collaborate with them and I expect to see their &lt;a href=&#34;http://wiki.xfce.org/releng/4.10/roadmap/accessibility/&#34;&gt;roadmap&lt;/a&gt; accomplished. You guys rock!&lt;/p&gt;
+
+&lt;p&gt;As a funny aside you can watch our sunday &lt;a href=&#34;http://www.flickr.com/photos/gloob/5423105350/&#34;&gt;hackfest&lt;/a&gt; around the application of &lt;a href=&#34;http://blogs.igalia.com/mario/&#34;&gt;Mario Sanchez Prada&lt;/a&gt;, &lt;a href=&#34;http://gitorious.org/webkit-watcher/&#34;&gt;webkit watcher&lt;/a&gt;, trying to make it read &lt;a href=&#34;http://build.gnome.org/&#34;&gt;build.gnome.org&lt;/a&gt; :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
