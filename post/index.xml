@@ -148,6 +148,24 @@ A really nice and interesting project to help bridge the digital divide.&lt;/p&g
     </item>
     
     <item>
+      <title>Hyperlapse on FFM</title>
+      <link>http://www.litio.org/post/Hyperlapse/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.litio.org/post/Hyperlapse/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/140730472&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;https://vimeo.com/140730472&#34;&gt;Approaching FFM&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user810913&#34;&gt;gloob&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Video shooted with Hyperlapse of instagram in an Airbus a319 approaching Frankfurt in a perfect sunny day. Music from Led Zeppelin :-)&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;From last summer I start to be interested on the technology behind &lt;a href=&#34;https://en.wikipedia.org/wiki/Hyperlapse&#34;&gt;hyperlapse&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basically is a technology that take advantage of todays algorithm to stabilize the image, accelerate the action and render the missing parts with information of previous frames. I think that &lt;a href=&#34;http://research.microsoft.com/en-us/um/people/cohen/hyperlapse.pdf&#34;&gt;this paper from Microsoft&lt;/a&gt; Research is the most interesting to start to dig on this.&lt;/p&gt;
+
+&lt;p&gt;I used the iOS application &lt;a href=&#34;https://hyperlapse.instagram.com/&#34;&gt;Hyperlapse of Instagram&lt;/a&gt; that use the spatial sensors from the mobile to build the camera path.&lt;/p&gt;
+
+&lt;p&gt;A worth to view it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Testing Orca</title>
       <link>http://www.litio.org/post/testing-orca/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
