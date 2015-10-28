@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on gloob&#39;s devlog</title>
+    <link>http://www.litio.org/about/</link>
+    <description>Recent content in Abouts on gloob&#39;s devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 19 Sep 2015 23:04:27 +0200</lastBuildDate>
+    <atom:link href="http://www.litio.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://www.litio.org/about/</link>
+      <pubDate>Sat, 19 Sep 2015 23:04:27 +0200</pubDate>
+      
+      <guid>http://www.litio.org/about/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Alejandro Leiva&lt;/em&gt; is also known as &lt;em&gt;gloob&lt;/em&gt;, a worker in the tech industry and a human in this planet.&lt;/p&gt;
+
+&lt;p&gt;You can find me in this other social places&lt;/p&gt;
+
+&lt;div id=&#34;social&#34;&gt;
+&lt;a href=&#34;https://github.com/gloob&#34;&gt;&lt;div class=&#34;genericon genericon-github&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/gloob&#34;&gt;&lt;div class=&#34;genericon genericon-twitter&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.facebook.com/alejandro.leiva.9&#34;&gt;&lt;div class=&#34;genericon genericon-facebook&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a href=&#34;https://flickr.com/people/gloob&#34;&gt;&lt;div class=&#34;genericon genericon-flickr&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/alejandroleiva&#34;&gt;&lt;div class=&#34;genericon genericon-linkedin&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.openhub.net/accounts/23204?ref=Detailed&#34;&gt;&lt;div class=&#34;genericon genericon-shuffle&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
