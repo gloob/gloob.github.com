@@ -6,11 +6,13 @@
 #social .genericon {
 	font-size: 32px;
 	display: inline-block;
+	margin: 5px;
 }
 
 #social a {
 	color: #666666;
 }
+
 #social a:hover {
 	color: #5694f1;
 }

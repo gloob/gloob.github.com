@@ -6,7 +6,7 @@
     <description>Recent content on gloob&#39;s devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2008 - 2015, Alejandro Leiva; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2004 - 2015, Alejandro Leiva; all rights reserved.</copyright>
     <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.litio.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,7 @@
 &lt;p&gt;You can find me in this other social places&lt;/p&gt;
 
 &lt;div id=&#34;social&#34;&gt;
+&lt;a href=&#34;mailto:gloob@litio.org&#34;&gt;&lt;div class=&#34;genericon genericon-mail&#34;&gt;&lt;/div&gt;&lt;/a&gt;
 &lt;a href=&#34;https://github.com/gloob&#34;&gt;&lt;div class=&#34;genericon genericon-github&#34;&gt;&lt;/div&gt;&lt;/a&gt;
 &lt;a href=&#34;https://twitter.com/gloob&#34;&gt;&lt;div class=&#34;genericon genericon-twitter&#34;&gt;&lt;/div&gt;&lt;/a&gt;
 &lt;a href=&#34;https://www.facebook.com/alejandro.leiva.9&#34;&gt;&lt;div class=&#34;genericon genericon-facebook&#34;&gt;&lt;/div&gt;&lt;/a&gt;
