@@ -1,0 +1,16 @@
+#social {
+	text-align: center;
+	margin: 20px 0 20px 0;
+}
+
+#social .genericon {
+	font-size: 32px;
+	display: inline-block;
+}
+
+#social a {
+	color: #666666;
+}
+#social a:hover {
+	color: #5694f1;
+}
