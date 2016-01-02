@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random on gloob&#39;s devlog</title>
-    <link>http://www.litio.org/tags/random/</link>
+    <link>//www.litio.org/tags/random/</link>
     <description>Recent content in Random on gloob&#39;s devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2004 - 2015, Alejandro Leiva; all rights reserved.</copyright>
     <lastBuildDate>Tue, 13 Apr 2010 20:45:17 +0200</lastBuildDate>
-    <atom:link href="http://www.litio.org/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//www.litio.org/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>On a mote of dust suspended in a sunbeam</title>
-      <link>http://www.litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</link>
+      <link>//www.litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</link>
       <pubDate>Tue, 13 Apr 2010 20:45:17 +0200</pubDate>
       
-      <guid>http://www.litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.litio.org/media/pale-blue-dot.png&#34; alt=&#34;&#34; title=&#34;Pale Blue Dot&#34; /&gt;&lt;/p&gt;
+      <guid>//www.litio.org/post/on-a-mote-of-dust-suspended-in-a-sunbeam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../media/pale-blue-dot.png&#34; alt=&#34;&#34; title=&#34;Pale Blue Dot&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;“Consider again that dot. That&amp;rsquo;s here. That&amp;rsquo;s home. That&amp;rsquo;s us. On it everyone
 you love, everyone you know, everyone you ever heard of, every human being who
